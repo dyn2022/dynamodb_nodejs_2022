@@ -1,0 +1,7 @@
+{
+  "credentials": {
+    "accessKeyId": "your_private_key",
+    "secretAccessKey": "your_private_key"
+  },
+  "region": "ap-southeast-1"
+}
